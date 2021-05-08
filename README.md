@@ -1,6 +1,1 @@
-- 👋 Hi, I’m @mamakram
-- ✨ I'm ✨ special ✨
-- 👀 I’m interested in things
-- 🌱 I’m currently learning ... Aren't we all?
-- 💞️ I’m looking to collaborate on anything and everything
-- 📫 Pls don't reach me
+Don't
